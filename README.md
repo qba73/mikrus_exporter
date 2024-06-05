@@ -1,2 +1,2 @@
 # mikrus_exporter
-Prometheus exporter for Mikrus
+[Prometheus](https://prometheus.io) exporter for [Mikrus](https://mikr.us)
